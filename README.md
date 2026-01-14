@@ -1,7 +1,8 @@
-Don't copy my game and pretend you made it and don't do stupid shit(unless in game if it's in game go ahead IRL don't!)!
+#Imparium 🎮🗺️
 
+Don’t copy this game and pretend it’s yours. Keep it respectful.
+(In-game chaos is fine. IRL chaos… maybe not 😏)
 
+Imparium is a free-to-play adventure game where you create your own world, face epic bosses, tame unique creatures, and explore an exciting sandbox adventure!
 
-
-# Imparium
-This repository is for my new game Imparium!
+This repository contains all the source code, assets, and development files for Imparium. It’s actively being built, so expect updates as the game grows.
